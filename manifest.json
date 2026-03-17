@@ -115,5 +115,6 @@
         }
       }
     }
-  }
+  },
+  "homepage_url": "https://meniole-command-config.deno.dev"
 }
